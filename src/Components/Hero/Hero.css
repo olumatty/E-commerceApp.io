@@ -44,3 +44,11 @@
     font-size:22px;
     font-weight:300;
 }
+
+.hero-right{
+    flex:1;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
